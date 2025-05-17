@@ -1,6 +1,6 @@
 # Ex.07 Restaurant Website
-## Date:
-
+## Date:17.5.25
+## Name:Vembarasi.A.R
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
 
